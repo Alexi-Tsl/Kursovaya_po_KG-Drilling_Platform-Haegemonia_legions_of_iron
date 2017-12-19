@@ -1,7 +1,7 @@
 # Kursovaya_po_KG-Drilling_Platform-Haegemonia_legions_of_iron
 ---
 
-Управление в программе
+					Управление в программе
 
 (T)Текстуры (L)Свет
 
